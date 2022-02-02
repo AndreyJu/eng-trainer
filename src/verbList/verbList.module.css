@@ -1,0 +1,20 @@
+.verbLst {
+    width: 800px;
+    height: 200px;
+    margin: 20px 15px;
+    background: transparent;
+    border-top: 2px solid rgb(0, 104, 104);
+    border-bottom: 2px solid rgb(0, 104, 104);
+    justify-content: center;
+    align-self: center;
+}
+
+.header {
+    font-family: 'nunito', sans-serif;
+    text-align: center;
+}
+
+.verbContainer {
+    display: flex;
+}
+
